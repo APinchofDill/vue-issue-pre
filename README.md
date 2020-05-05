@@ -1,4 +1,5 @@
-# sample
+## vue-issue-pre
+A sample project for vue js issue support
 
 ## Project setup
 ```
